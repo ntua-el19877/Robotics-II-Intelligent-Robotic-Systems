@@ -1,0 +1,1 @@
+/home/angelosros/catkin_ws/src/robo2_redundant/devel/.private/catkin_tools_prebuild/local_setup.bash
