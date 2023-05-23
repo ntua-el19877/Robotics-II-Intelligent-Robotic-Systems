@@ -1,6 +1,0 @@
-devel_space: /home/angelosros/catkin_ws/src/robo2_redundant/devel
-install: false
-install_space: /home/angelosros/catkin_ws/src/robo2_redundant/install
-profile: default
-source_space: /home/angelosros/catkin_ws/src/robo2_redundant/src
-workspace: /home/angelosros/catkin_ws/src/robo2_redundant
